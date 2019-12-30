@@ -1,4 +1,6 @@
-# This code calculates Pi and shows it up to the prec digit
+# This code calculates Pi using the Chudnovksy's series.
+# The higher the given n is, the more accurate the calculation willbe
+# The higher prec is, the more digits after the decimal point will return
 
 from decimal import Decimal as Dec, getcontext as gc
 
