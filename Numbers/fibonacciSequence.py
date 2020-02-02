@@ -1,4 +1,5 @@
-# TODO Comments
+# This code calculates the Fibonacci series up to the nth number in the
+# series
 
 def calculateFibonacci(n):
     fibonnaci = ['1', '1']

@@ -1,0 +1,9 @@
+Bank Account Manager is a small OOP designed program of different types of bank
+ accounts (all based on the abstract Account.py class). Each type of account
+ has a deposit and withdraw functions with a limit on both withdraw and deposit
+  amounts.
+The different accounts have a different interest rate set and they are all
+managed using getters and setters.
+
+The program an be managed using the main function under the ATM.py file which
+prompts messages to the user as a real ATM will do.

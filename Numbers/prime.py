@@ -1,3 +1,6 @@
+# This code calculates the prime factors of a given n entered by the user
+
+
 print('Pick a number you want to see the prime factorization of:')
 n = int(input())
 listofprimes = []
