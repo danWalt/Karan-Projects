@@ -39,3 +39,6 @@ nosetests.xml
 *.komodoproject
 
 .DS_Store
+CONTRIBUTING.md
+README.md
+test.py
