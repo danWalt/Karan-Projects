@@ -1,4 +1,4 @@
-# bubbleSort.py is my own implementation of the bubble sort sorting algorithm
+# bubbleSort.py is my own implementation of the bubble sort sorting algorithm.
 
 def bubbleSort(numList):
     n = len(numList)
